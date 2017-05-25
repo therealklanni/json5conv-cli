@@ -1,0 +1,7 @@
+node_modules
+npm-debug.log
+.DS_Store
+.*.swp
+coverage
+.nyc_output
+coverage.lcov

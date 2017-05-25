@@ -1,0 +1,8 @@
+.DS_Store
+.*.swp
+yarn.lock
+coverage
+.nyc_output
+__tests__/
+*.test.js
+*.test.jsx
