@@ -1,6 +1,6 @@
 {
   "name": "json5conv-cli",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Command-line JSON5 to JSON converter",
   "author": "Kevin Lanni (https://github.com/therealklanni)",
   "license": "MIT",
